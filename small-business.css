@@ -1,7 +1,12 @@
 body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: rgb(219, 112, 147);
     background-color: lightblue;}
     h1 {
         color: rgba(219, 118, 50, 0.829);
         margin-left: 20px;
-      }
-      
+        }
+    
+   
+   
